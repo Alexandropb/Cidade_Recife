@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marco Zero do Recife</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header, footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        main {
+            padding: 20px;
+        }
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao Marco Zero do Recife</h1>
+    </header>
+    <main>
+        <div class="content">
+            <h2>Sobre o Marco Zero</h2>
+            <p><strong>Marco Zero</strong> é um dos pontos turísticos mais icônicos da cidade do Recife, localizado no <em>Bairro do Recife</em>, também conhecido como Recife Antigo. É considerado o ponto inicial das estradas que partem da capital pernambucana.</p>
+            <p>O Marco Zero é um <em>símbolo histórico</em> e cultural, marcando o local onde a cidade foi fundada. A praça é rodeada por edifícios históricos e está próxima ao porto, oferecendo uma vista magnífica do mar e do Rio Capibaribe.</p>
+            <figure>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Marco_Zero.jpg/800px-Marco_Zero.jpg" alt="Imagem do Marco Zero do Recife">
+                <figcaption>Imagem do Marco Zero do Recife</figcaption>
+            </figure>
+            <h2>Atrações Próximas</h2>
+            <p>Além de apreciar a vista e a <em>beleza arquitetônica</em> do entorno, os visitantes podem explorar várias atrações próximas, como:</p>
+            <ul>
+                <li><strong>Cais do Sertão:</strong> Museu que celebra a cultura sertaneja e a vida de Luiz Gonzaga.</li>
+                <li><strong>Paço do Frevo:</strong> Espaço dedicado à preservação e promoção do frevo, ritmo tradicional de Pernambuco.</li>
+                <li><strong>Centro Cultural Judaico:</strong> Local que celebra a presença judaica no Recife.</li>
+            </ul>
+            <h2>Eventos e Atividades</h2>
+            <p>O Marco Zero é palco de diversos <em>eventos culturais</em> e festivos ao longo do ano, incluindo o famoso <strong>Carnaval do Recife</strong>, que atrai milhares de turistas.</p>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 Informações Turísticas do Recife</p>
+    </footer>
+</body>
+</html>
+
